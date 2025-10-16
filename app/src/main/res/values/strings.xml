@@ -1,0 +1,13 @@
+<resources>
+    <!-- Aplicación Calcular Comida Animal -->
+    <string name="dog">perro</string>
+    <string name="cat">gato</string>
+    <string name="weight">peso</string>
+    <string name="defaultValueWeight">1 Kg</string>
+    <string name="age">edad</string>
+    <string name="defaultAge">0 años</string>
+    <string name="year">años</string>
+
+    <!-- Aplicación Listado -->
+    <string name="app_name">Sesion1_Calculadora</string>
+</resources>
